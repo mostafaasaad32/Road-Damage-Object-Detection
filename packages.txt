@@ -1,5 +1,1 @@
-ffmpeg
-libgl1
-libsm6
-libxext6
-libxrender1
+# No apt packages required for opencv-python-headless
