@@ -1,0 +1,10 @@
+names:
+- longitudinal crack
+- transverse crack
+- alligator crack
+- other corruption
+- pothole
+nc: 5
+test: /kaggle/input/datasets/sujityp/rdd2022/datasets/test
+train: /kaggle/input/datasets/sujityp/rdd2022/datasets/train
+val: /kaggle/input/datasets/sujityp/rdd2022/datasets/valid

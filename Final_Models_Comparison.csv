@@ -1,0 +1,4 @@
+Model,mAP50,mAP50-95,Precision,Recall,Size_MB,Inference_ms,FPS,Weights_Path
+yolov8n,0.5126,0.2587,0.5769,0.4846,5.96,14.1,70.91,/kaggle/working/runs/detect/yolov8n_20260713_215519/weights/best.pt
+yolov8s,0.5604,0.2898,0.5988,0.5426,21.47,20.03,49.92,/kaggle/working/runs/detect/yolov8s_20260714_002606/weights/best.pt
+yolov8m,0.5774,0.3018,0.6259,0.5456,49.62,30.08,33.24,/kaggle/working/runs/detect/yolov8m_20260714_032128/weights/best.pt

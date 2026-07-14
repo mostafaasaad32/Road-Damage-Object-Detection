@@ -1,0 +1,12 @@
+*.pt
+*.zip
+*.h5
+*.keras
+*.weights.h5
+*.ipynb
+__pycache__/
+best_overall_model/
+yolov8m/
+yolov8s/
+yolov8n/
+data_sample/
